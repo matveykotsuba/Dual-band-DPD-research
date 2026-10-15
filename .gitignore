@@ -1,0 +1,9 @@
+/results/
+*.asv
+*.m~
+*.log
+*.mex*
+verification/**/*.mat
+verification/**/*.png
+verification/**/*.fig
+verification/**/*.csv
